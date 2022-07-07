@@ -1,5 +1,4 @@
-## Hi there 👋
-### I'm Arindam Upadhyay
+## Hi there 👋 <br/>I'm Arindam Upadhyay
 
 <!-- **Arindam2002/Arindam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
