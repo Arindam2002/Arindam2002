@@ -1,8 +1,8 @@
 ## Hi, I'm Arindam Upadhyay
 
-Software engineer at Gothia Digital Solutions, a Swedish company I work for remotely from Pune. My days split between two things: a multi-tenant .NET platform, and the self-hosted LLM stack that sits behind it. Think vLLM serving Qwen models on our own GPUs, a FastAPI gateway in front, Prometheus and Grafana watching all of it, and a lot of strong opinions about strict JSON schema outputs.
+Backend engineer who ended up on the infrastructure side of AI, mostly by picking up whatever nobody else wanted to touch. I like the unglamorous layer: APIs that stay up, queues that don't lose messages, and LLMs running on hardware you can physically kick instead of someone else's cloud. If it involves a GPU, a schema, or a dashboard full of metrics, I'm probably poking at it.
 
-Before that I co-founded Sizzlr, a campus food ordering app, and led the mobile sub-team on a campus ERP at IIIT Jabalpur, where I did my B.Tech in CS.
+These days I'm building tools for myself, learning how big models are actually served and evaluated, and slowly turning "I read about it" into "I built it".
 
 ## What I'm building
 
@@ -44,4 +44,4 @@ RAG and retrieval evaluation, agentic orchestration (tool calling, state, failur
 
 ## Say hi
 
-[LinkedIn](https://linkedin.com/in/upadhyay-arindam) or arindamupadhyay2002@gmail.com. Always happy to talk about running LLMs on hardware you can physically kick.
+[LinkedIn](https://linkedin.com/in/upadhyay-arindam) or arindamupadhyay2002@gmail.com. Always happy to talk about self-hosting models, backend design, or why your Kafka consumer is lagging.
