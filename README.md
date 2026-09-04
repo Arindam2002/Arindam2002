@@ -1,68 +1,47 @@
-## Hi there 👋 <br/>I'm Arindam Upadhyay
+## Hi, I'm Arindam Upadhyay
 
-<!-- **Arindam2002/Arindam2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer at Gothia Digital Solutions, a Swedish company I work for remotely from Pune. My days split between two things: a multi-tenant .NET platform, and the self-hosted LLM stack that sits behind it. Think vLLM serving Qwen models on our own GPUs, a FastAPI gateway in front, Prometheus and Grafana watching all of it, and a lot of strong opinions about strict JSON schema outputs.
 
-Here are some ideas to get you started: 
+Before that I co-founded Sizzlr, a campus food ordering app, and led the mobile sub-team on a campus ERP at IIIT Jabalpur, where I did my B.Tech in CS.
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+## What I'm building
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Arindam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Arindam2002&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arindam2002&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+- **[gig-radar](https://github.com/Arindam2002/gig-radar)**: I vibe coded my whole job hunt. A little radar that runs on your machine, sweeps job boards for fresh listings, scores them against your resume, digs up recruiter contacts, drafts your cold emails and preps you for interviews. Your data stays yours.
+- **[KafkaLab](https://github.com/Arindam2002/KafkaLab)**: scratch space from when I sat down and learned Kafka properly instead of nodding along in meetings.
+- **[Sizzlr](https://github.com/Arindam2002/sizzlr_customer_side)**: the app that got us to the G20 Startup Expo. Flutter on the front, Node and MongoDB on Cloud Run behind it. Management side lives [here](https://github.com/Arindam2002/sizzlr_management_side).
 
-## Worked a bunch on...
+## Stack I actually use
 
-<!--[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 &nbsp;
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 &nbsp;
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 &nbsp;
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+![vLLM](https://img.shields.io/badge/vLLM-1E1E2E?style=for-the-badge)
 &nbsp;
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]()
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 &nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
-&nbsp;
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)]()
-&nbsp;
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
-&nbsp;
-[![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-&nbsp;
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)]()
-&nbsp;
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
-&nbsp;
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]()
-&nbsp; -->
-
-![Dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-&nbsp;
-![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-&nbsp;
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
-&nbsp;
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)]()
-&nbsp;
-
-## Currently learning
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 &nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 &nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+&nbsp;
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+## Currently deep in
 
+RAG and retrieval evaluation, agentic orchestration (tool calling, state, failure recovery), and LLM serving internals like continuous batching and the KV cache. Also relearning graph traversal from scratch every few months, as one does.
+
+## Say hi
+
+[LinkedIn](https://linkedin.com/in/upadhyay-arindam) or arindamupadhyay2002@gmail.com. Always happy to talk about running LLMs on hardware you can physically kick.
